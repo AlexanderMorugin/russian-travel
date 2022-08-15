@@ -1,18 +1,18 @@
-.intro__title {
+.footer__link {
   line-height: 1.1;
-  font-weight: 800;
-  margin: 0;
-  padding: 0;
+  font-weight: 300;
+  color: #fff;
+  text-decoration: none;
 }
 
 @media screen and (max-width: 1280px), (min-width: 1280px), (max-width: 1024px), (max-width: 768px) {
-  .intro__title {
-    font-size: 54px;
+  .footer__link {    
+    font-size: 16px;
   }
 }
 
 @media screen and (max-width: 320px) {
-  .intro__title {
-    font-size: 32px;
+  .footer__link {
+    font-size: 24px;
   }
 }

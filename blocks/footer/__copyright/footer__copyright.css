@@ -2,6 +2,17 @@
   line-height: 16px;
   font-size: 14px;
   font-weight: 400;
-  margin: 0;
   padding: 0;
+}
+
+@media screen and (max-width: 1280px), (min-width: 1280px), (max-width: 1024px), (max-width: 768px) {
+  .footer__copyright {    
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer__copyright {
+    margin: 48px 0 0 0;
+  }
 }
