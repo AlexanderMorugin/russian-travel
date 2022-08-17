@@ -3,12 +3,7 @@
   list-style: none;
   margin: 0;
   padding: 0;
-}
-
-@media all and (max-width: 1280px), (min-width: 1280px), (max-width: 1024px), (max-width: 768px) {
-  .footer__links {    
-    gap: 18px;
-  }
+  gap: 18px;
 }
 
 @media all and (max-width: 320px) {

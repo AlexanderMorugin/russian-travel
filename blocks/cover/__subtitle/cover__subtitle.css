@@ -2,17 +2,12 @@
   display: flex;
   align-self: center;
   line-height: 1.2;
-  font-weight: 300;
+  font-weight: 400;
   padding: 0;
   text-align: center;
-}
-
-@media screen and (max-width: 1280px), (min-width: 1280px), (max-width: 1024px), (max-width: 768px) {
-  .cover__subtitle {    
-    font-size: 18px;
-    max-width: 360px;
-    margin: 32px auto 0 auto;
-  }
+  font-size: 18px;
+  max-width: 360px;
+  margin: 32px auto 0 auto;
 }
 
 @media screen and (max-width: 320px) {

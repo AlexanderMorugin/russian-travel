@@ -4,13 +4,8 @@
   grid-template-rows: repeat(auto-fit, minmax(min-content, max-content));  
   margin: 0;
   box-sizing: border-box;
-}
-
-@media screen and (max-width: 1280px), (min-width: 1280px), (max-width: 1024px) {
-  .places {    
-    padding: 0 0 92px 0; 
-    row-gap: 80px;
-  }
+  padding: 0 0 92px 0; 
+  row-gap: 80px;
 }
 
 @media screen and (max-width: 768px) {

@@ -4,27 +4,8 @@
   text-align: center;
   margin: 0 auto;
   padding: 0;
-}
-
-@media screen and (max-width: 1280px), (min-width: 1280px) {
-  .lead__title {
-    max-width: calc(100% - 264px);
-    font-size: 96px;
-  }
-}
-
-@media screen and (max-width: 1024px) {
-  .lead__title {
-    max-width: calc(100% - 264px);
-    font-size: 96px;
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead__title {
-    max-width: 100%;
-    font-size: 96px;
-  }
+  max-width: 720px;
+  font-size: 96px;
 }
 
 @media screen and (max-width: 320px) {
