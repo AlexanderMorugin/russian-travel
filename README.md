@@ -14,6 +14,5 @@
 Студент Моругин А.В.
 август 2022г.
 
-ссылка на проект:
-https://github.com/AlexanderMorugin/russian-travel.git
+[ссылка на проект](https://alexandermorugin.github.io/russian-travel/)
 

@@ -1,4 +1,4 @@
-.page {
+.page {  
   background-color: #2A2C2F;
   color: #fff;
   box-sizing: border-box;
@@ -12,11 +12,12 @@
   margin: 0 auto;
   padding: 0;
   max-width: 1280px;
+  min-width: 320px;
 }
 
 @media screen and (max-width: 1280px) {
   .page {
-    max-width: 100%;
+    width: 100%;
   }
 }
 
@@ -37,6 +38,7 @@
     max-width: 320px;
   }
 }
+
 
 
 /*

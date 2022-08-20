@@ -3,6 +3,12 @@
   grid-area: website;
   align-content: end;
   row-gap: 12px;
-  padding: 0;
   margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__website {
+    padding: 0 16px 0 16px;
+  }
 }
