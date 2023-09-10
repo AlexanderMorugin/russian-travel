@@ -16,8 +16,19 @@
 В проекте используется локально подключенный шрифт 'Inter'.
 Имеются внешние ссылки на указанные в задании сайты.
 
-Студент Моругин А.В.
-август 2022г.
 
-[ссылка на проект](https://alexandermorugin.github.io/russian-travel/)
+
+## Макет ##
+
+Проект выполнен согласно макету в Figma, находящегося по [данной ссылке](https://www.figma.com/file/ocw9a6hNGeAejl4F3G9fp8/React-_-Проектные-задачи-(3-месяца)_external_link?type=design&node-id=2974-2989)
+
+## Смотреть проект ##
+
+Ссылка на проект в gh-pages: **[Путешествия по России]([https://alexandermorugin.github.io/react-burger/](https://alexandermorugin.github.io/russian-travel/))**
+
+--------
+студент "Яндекс Практикум"\
+курс "Веб-разработчик плюс"\
+Александр Моругин\
+август 2022г
 
