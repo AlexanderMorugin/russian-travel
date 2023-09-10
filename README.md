@@ -20,7 +20,7 @@
 
 ## Макет ##
 
-Проект выполнен согласно макету в Figma, находящегося по [данной ссылке](https://www.figma.com/file/ocw9a6hNGeAejl4F3G9fp8/React-_-Проектные-задачи-(3-месяца)_external_link?type=design&node-id=2974-2989)
+Проект выполнен согласно макету в Figma, находящегося по [данной ссылке](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?type=design&node-id=28503-0&mode=design)
 
 ## Смотреть проект ##
 
