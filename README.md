@@ -24,7 +24,7 @@
 
 ## Смотреть проект ##
 
-Ссылка на проект в gh-pages: **[Путешествия по России]([https://alexandermorugin.github.io/react-burger/](https://alexandermorugin.github.io/russian-travel/))**
+Ссылка на проект в gh-pages: **[Путешествия по России](https://alexandermorugin.github.io/russian-travel/)**
 
 --------
 студент "Яндекс Практикум"\
